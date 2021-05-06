@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: GPL-2.0
-VERSION = 5
-PATCHLEVEL = 12
-SUBLEVEL = 0
-EXTRAVERSION = -rc8
-NAME = Frozen Wasteland
+VERSION = 0
+PATCHLEVEL = 0
+SUBLEVEL = 01
+EXTRAVERSION = -rc1
+NAME = pls do not use me
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
